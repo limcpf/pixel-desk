@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: pixel-desk
+  threads:
+    virtual:
+      enabled: true
