@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: pixel-desk
+  threads:
+    virtual:
+      enabled: true
+logging:
+  file:
+    name: ./logs/application.log
